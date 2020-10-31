@@ -17,4 +17,5 @@
 
 
 具体实现，请查看 https://aistudio.baidu.com/aistudio/projectdetail/1176398
+
 PaddleSeg 课程链接：https://aistudio.baidu.com/aistudio/course/introduce/1767
